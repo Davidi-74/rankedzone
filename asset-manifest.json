@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rankedzone/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/rankedzone/static/js/main.cebde5f5.chunk.js",
-    "main.js.map": "/rankedzone/static/js/main.cebde5f5.chunk.js.map",
+    "main.js": "/rankedzone/static/js/main.ba31c66a.chunk.js",
+    "main.js.map": "/rankedzone/static/js/main.ba31c66a.chunk.js.map",
     "runtime-main.js": "/rankedzone/static/js/runtime-main.853948b7.js",
     "runtime-main.js.map": "/rankedzone/static/js/runtime-main.853948b7.js.map",
     "static/js/2.ca7e70ea.chunk.js": "/rankedzone/static/js/2.ca7e70ea.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.853948b7.js",
     "static/js/2.ca7e70ea.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.cebde5f5.chunk.js"
+    "static/js/main.ba31c66a.chunk.js"
   ]
 }
